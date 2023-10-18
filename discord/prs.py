@@ -188,4 +188,4 @@ async def join(ctx):
     await channel.connect()  
 
 #client.run(os.environ['BOT_TOKEN'])
-client.run("OTQwODAzMzY0MDIxNzYwMDQ1.YgMtaQ.4TjtEZn04ktuJYInH2tS9-3757g")
+client.run("")
